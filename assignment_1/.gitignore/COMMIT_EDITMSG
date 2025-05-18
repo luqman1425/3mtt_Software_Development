@@ -1,0 +1,23 @@
+Added header to index.html
+# Ignore system files and directories
+**/.vscode/
+**/AppData/
+**/Application Data/
+**/Contacts/
+**/Desktop/
+**/Documents/
+**/Downloads/
+**/Favorites/
+**/IntelGraphicsProfiles/
+**/Links/
+**/Music/
+**/NTUSER.DAT*
+**/node_modules/
+**/PycharmProjects/
+**/Saved Games/
+**/Searches/
+**/Videos/
+**/react-app/
+**/source/
+*.log
+*.bak
